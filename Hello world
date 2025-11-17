@@ -2,4 +2,7 @@
 void main()
 {
 printf("HI! This is Pravat");
+printF(" 🚀 Passionate Developer  🌍 Open Source Advocate  🧠 Continuous Learner
+ 🌐 Full-Stack Developer  💻 JavaScript  🐍 Python  ⚙️ DevOps  ☁️ Cloud Enthusiast
+ 🎯 Focused on scalable, maintainable code  🌟 Always eager to contribute and innovate")
 }
